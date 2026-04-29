@@ -639,7 +639,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   startingScore: 0
   lives: 5
-  gameSpeed: 1
+  gameSpeed: 10
 --- !u!4 &858052917
 Transform:
   m_ObjectHideFlags: 0
